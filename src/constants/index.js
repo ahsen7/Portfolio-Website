@@ -187,7 +187,7 @@ import {
     },
     {
       testimonial:
-        "He has proved to be a reliable team player and a quick learner, qualities that will serve her well in her professional journey.",
+        "He has proved to be a reliable team player and a quick learner, qualities that will serve him well in him professional journey.",
       name: "Rauf Ahmed",
       designation: "CEO",
       company: "Shafiq Construction Company",
